@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PROCESS ENTITY="JSFProcess">
+ <PROCESS-ITEM ENTITY="JSFProcessGroup" NAME="rules:#playGround.jsp"
+  PATH="/playGround.jsp" SHAPE="144,80,50,25" persistent="true"/>
+</PROCESS>
