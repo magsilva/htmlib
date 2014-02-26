@@ -6,8 +6,16 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.exadel</groupId>
 	<artifactId>htmlib</artifactId>
-	<version>0.3</version>
+	<version>0.3.0</version>
 	<packaging>jar</packaging>
+
+
+	<distributionManagement>
+		<repository>
+			<id>IroniaCorp</id>
+			<url>dav:http://www.ironiacorp.com/repo/maven2</url>
+		</repository>
+	</distributionManagement>
 
 	<dependencies>
 		<dependency>
